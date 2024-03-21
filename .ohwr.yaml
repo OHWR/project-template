@@ -1,0 +1,36 @@
+---
+# SPDX-FileCopyrightText: 2024 CERN (home.cern)
+#
+# SPDX-License-Identifier: BSD-3-Clause
+
+version: '1.0.0'
+
+name: 'Project Template'
+
+description: 'https://raw.githubusercontent.com/OHWR/project-template/master/README.md'
+
+website: 'https://github.com/OHWR/project-template'
+
+licenses:
+  - 'CC-BY-SA-4.0'
+  - 'BSD-3-Clause'
+
+images:
+  - 'https://github.com/OHWR/project-template/assets/33404234/65a4b4dd-a971-4fcf-a7de-40d8aa5095d2'
+  - 'https://github.com/OHWR/project-template/assets/33404234/3bde940c-b56e-4da1-8290-73642c9b9df6'
+
+documentation: 'https://github.com/OHWR/project-template/wiki'
+
+issues: 'https://github.com/OHWR/project-template/issues'
+
+latest_release: 'https://github.com/OHWR/project-template/releases/latest'
+
+forum: 'https://github.com/OHWR/project-template/discussions'
+
+newsfeed: 'https://raw.githubusercontent.com/wiki/OHWR/project-template/News.md'
+
+links:
+  - name: 'Link 1'
+    url: 'https://github.com/OHWR'
+  - name: 'Link 2'
+    url: 'https://github.com/OHWR/ohwr.org'
